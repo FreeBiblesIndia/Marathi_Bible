@@ -1,11 +1,11 @@
 # Marathi_Bible
 Marathi Bible (CC by SA)
 
-New Testament (27 books) available.
+Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/mar/ (Coming soon)
+http://freebiblesindia.com/bible/mar/
 
 Thanks
 =======
