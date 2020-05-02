@@ -5,7 +5,7 @@ Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/mar/
+http://freebiblesindia.in/bible/mar/
 
 Thanks
 =======
