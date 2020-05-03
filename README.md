@@ -1,4 +1,7 @@
 # Marathi_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Marathi_Bible/blob/master/icons/icon.png?raw=true)
+
 Marathi Bible (CC by SA)
 
 Full Bible (66 books) available now.
